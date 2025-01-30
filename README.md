@@ -15,3 +15,4 @@ sebrat dopis z  trezoru v místnosti ložnice, který je třeba odemknout předm
 ## Autor: Olga Jandová
 ### Verze: 1.0.1
 
+[Uzivatelska prirucka](uzivatelska_prirucka.md)
