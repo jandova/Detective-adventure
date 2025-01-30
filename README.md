@@ -1,3 +1,5 @@
+![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+
 Tento soubor obsahuje jednoduchou textovou hru, která spočívá v plnění stanovených úkolů k výhře.
 V rámci plnění těchto úkolů se hráč pohybuje po vytvořené mapě, jejíž návrh je přiložen v souboru.
 K dosažení výhry je třeba splnit pět konkrétních úkolů, čímž se zpřístupní finální místnost "stanice". 
@@ -10,6 +12,6 @@ ohledat tělo v místnosti obývák
 vyfotit tělo v místnosti obývák
 sebrat dopis z  trezoru v místnosti ložnice, který je třeba odemknout předmětem klíček z místnosti pracovna
 
-Autor: Olga Jandová
-Verze: 1.0.1
+## Autor: Olga Jandová
+### Verze: 1.0.1
 
