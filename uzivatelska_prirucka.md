@@ -23,7 +23,7 @@ prozkoumat - spolu s dalším parametrem předmětu, který chce hráč prozkoum
 
 ohledat - spolu s dalším parametrem předmětu, který chce hráč ohledat, umožní ohledání požadovaného předmětu. Jde-li o předmět telo, dojde ke splnění jedné z podmínek pro výhru (ohledání těla). Jde-li o jiný předmět, není ohledání předmětu možné.
 
-vyfotit - spolu s dalším parametrem předmětu, který chce hráč v\fotit, umožní vyfocení požadovaného předmětu. Jde-li o předmět telo, dojde ke splnění jedné z podmínek pro výhru (vyfocení těla, tedy hlavního místa činu)
+vyfotit - spolu s dalším parametrem předmětu, který chce hráč vyfotit, umožní vyfocení požadovaného předmětu. Jde-li o předmět telo, dojde ke splnění jedné z podmínek pro výhru (vyfocení těla, tedy hlavního místa činu)
 
 odemkni - spolu s dalším parametrem předmětu, který chce hráč odemknout, umožní odemčení požadovaného předmětu. Jde-li o předmět trezor, dojde k vložení nového oředmětu do místnosti: dopis_milenci, jehož sebráním splní hráč jednu z podmínek pro výhru (sebrat dopis_milenci)
 
