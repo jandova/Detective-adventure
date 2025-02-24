@@ -350,7 +350,7 @@ public class HraTest {
         assertEquals("K ohledání je potřeba specifikovat, co chcete ohledat.\n" +
                 "Obsah kufříku: ", hra.zpracujPrikaz("ohledat"));
     }
-
+    //abc
 
     @Test
     public void testOdemkni() {
